@@ -2,4 +2,31 @@ html {
     height: 100%;
     width: 100%;
   }
-  
+
+  h1{
+    font-size: 50px;
+    color: green; 
+  }
+
+  .blue{
+    color: blue;
+  }
+
+  #red{
+    color: red;
+  }
+
+  #chColor{
+    color: cyan;
+    background-color: black;
+  }
+
+  #perro{
+    width: 50%;
+    height: auto;
+  }
+
+  #caballo{
+    width: 500px;
+    height: 600px;
+  }
